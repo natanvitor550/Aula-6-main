@@ -1,0 +1,43 @@
+.purple{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.blue{
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: 30px;
+}
+
+.yo{
+    background-color: yellow;
+    padding: 20px;
+    margin: 10px;
+}
+
+.flex{
+    display: flex;
+}
+
+.red{
+    background-color: red;
+    padding-right: 80px;
+}
+
+.green{
+    background-color: green;
+    padding-bottom: 80px;
+}
+
+.you{
+    background-color: yellow;
+    padding-bottom: 80px;
+    margin-left: 10px
+}
+
+.fix{
+    margin-top: 20px;
+    
+}
